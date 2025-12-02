@@ -254,7 +254,7 @@ Due to Android battery policies:
 
 Need help or want to report issues?
 
-- **Discord**: [@YourUsername](https://discordapp.com/users/193954733617053696)
+- **Discord**: [@delp_mat](https://discordapp.com/users/193954733617053696)
 - **Issues**: [GitHub Issues](../../issues)
 - **Discussions**: [GitHub Discussions](../../discussions)
 
@@ -292,7 +292,10 @@ Contributions are welcome! Please feel free to:
 <img width="377" height="831" alt="image" src="https://github.com/user-attachments/assets/4cd4d394-c1a0-4af0-95df-001b65ea0b91" />
 
 ## Video
+<div align="center">
+https://github.com/user-attachments/assets/7ce3625c-4c1a-4987-ba0d-9a1e0d00c6a7
 
+</div>
 https://cdn.discordapp.com/attachments/683876016363798550/1445317277439361045/Screen_recording_20251202_032947.mp4?ex=692fe81b&is=692e969b&hm=47707f6400867c05e81c0d76a2a3a031e7ed3c8de28a9bad999f1576ecdb5ecb&
 ---
 
@@ -302,8 +305,5 @@ Built with ❤️ for the Android automation community.
 
 ---
 
-<div align="center">
+Made with ☕ and 🔧 by [@CRM2007](https://github.com/CRM2007)
 
-Made with ☕ and 🔧 by [@YourUsername](https://github.com/yourusername)
-
-</div>
